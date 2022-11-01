@@ -1,7 +1,15 @@
 ---
 title: Where to start bringing automation into your team
-tags: []
+tags:
+- automation
 date: 2022-11-01 00:00:00 +0000
+categories:
+- automation
+description: ''
+image:
+  path: ''
+  height: 
+  width: ''
 
 ---
 [Krystina Prendergast](https://twitter.com/RuinAerlin) asked on Twitter:
