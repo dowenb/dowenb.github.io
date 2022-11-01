@@ -7,14 +7,18 @@ categories:
 - automation
 description: ''
 image:
-  path: ''
-  height: 
-  width: ''
+  path: "/uploads/pexels-tara-winstead-8386434-10x14.jpg"
+  height: 420
+  width: "1000"
 
 ---
 [Krystina Prendergast](https://twitter.com/RuinAerlin) asked on Twitter:
 
 > You advocated to have automation added to your test team... and somehow got it approved with no idea what framework or tools you want to use, let alone an automation strategy. What is the first step you take?
+
+![](/uploads/pexels-tara-winstead-8386434-10x14.jpg)
+
+Header Photo by [Tara Winstead](https://www.pexels.com/photo/person-reaching-out-to-a-robot-8386434/)
 
 And this was my response:
 
@@ -26,7 +30,7 @@ If you haven't already, go take this free course, [Setting a Foundation for Succ
 
 Identify the problem you want to solve with automation, I'm thinking:
 
-* What risks, to what important functionality do you want to cover first? 
+* What risks, to what important functionality do you want to cover first?
 * Where do you want to see improvements? Time to release? More coverage per build?
 * Testability / support exploration?
 
