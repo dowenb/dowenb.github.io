@@ -17,12 +17,51 @@ fields:
   config:
     date_format: DD/MM/YYY
     required: true
+    export_format: ''
+  default: now
 - name: tags
   type: tag_list
   default: []
   hidden: false
   label: Tags
   description: Tags to theme posts
+- name: categories
+  type: tag_list
+  default: []
+  label: Categories
+  description: one categorie is best
+- name: description
+  type: text
+  config:
+    required: false
+  label: description
+  description: Describe the post
+- name: image
+  type: field_group
+  config: {}
+  fields:
+  - name: path
+    type: text
+    config:
+      required: false
+    label: path
+  - name: height
+    type: number
+    label: height
+    description: ''
+    default: 1000
+    required: true
+    config:
+      min: 
+      max: 
+      step: 
+  - name: width
+    type: text
+    config:
+      required: false
+    label: width
+    default: '420'
+  label: image
 pages:
 - _posts/2018-10-04-my-first-post-using-forestry.md
 - _posts/2018-10-26-it-works-on-my-machine.md
