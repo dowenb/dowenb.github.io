@@ -17,7 +17,7 @@ However it happened, Software Testing isn't normally your job, but here you are,
 
 ## Don't panic
 
-The first thing I'm here to tell you, is don't panic! I can't promise everything will be OK, but I can reassure you that you're not the first, and won't be the last person to get this request. And I hope I can give you enough pointers here so you can make a fair job of it. How knows, you maybe even enjoy it.
+The first thing I'm here to tell you, is don't panic! I can't promise everything will be OK, but I can reassure you that you're not the first, and won't be the last person to get this request. And I hope I can give you enough pointers here so you can make a fair job of it. Who knows, you maybe even enjoy it.
 
 ## Why test software
 
