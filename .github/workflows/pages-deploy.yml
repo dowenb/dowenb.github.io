@@ -66,7 +66,7 @@ jobs:
           bundle exec htmlproofer _site --disable-external --allow_hash_href --no-enforce-https --allow-missing-href --ignore-files "_site/admin/index.html"
 
       - name: Upload site artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3
         with:
           path: "_site${{ steps.pages.outputs.base_path }}"
 
