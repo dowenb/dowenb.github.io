@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Help your team learn test automation
-date: '2024-06-18T23:00:00.000Z'
+date: 2024-06-18T23:00:00.000Z
 draft: false
 image: /uploads/pexels-tara-winstead-8386434.jpg
 categories: How to
@@ -11,7 +11,6 @@ tags:
   - leadership
   - automation
 ---
-
 
 I recently had a great conversation with a member of the software testing community, who works as a leader and wanted advice on how to help his team learn test automation.
 
@@ -23,4 +22,4 @@ This is a summary of some of the advice I shared, that reflects my own experienc
 4. Try and gather a collection of different possible learning material, and let your team experiment with learning in different ways. Give them time to experiment, in as safe a way as possible. Some of your team might feel brave enough to get help and support from a group, but others may prefer to pair 1:1 with a trusted person before they know enough to join a wider group setting.
 5. I found I learned the most, when I paired with someone experienced, such as a developer on my team, and completed real test automation tasks together, as part of our sprint. Sometimes I would lead, and take direction, other times my partner would lead and I would direct. Either way, I learned a huge amount, while seeing progress of doing meaningful work. This was very very effective, and honestly I recommend doing this not just for a few hours one off, but for multiple hours a day, for weeks. It's an excellent work of working and learning, I cannot stress enough how powerful and useful this was for both of us.
 
-Hero image: [Photo by Helena Lopes](https://www.pexels.com/photo/a-man-in-black-jacket-reading-a-book-3471028/)
+Header Photo by [Tara Winstead](https://www.pexels.com/photo/person-reaching-out-to-a-robot-8386434/)
