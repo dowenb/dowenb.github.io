@@ -2,7 +2,8 @@
 layout: post
 title: Help your team learn test automation
 date: 2024-06-18T23:00:00.000Z
-draft: true
+draft: false
+image: /uploads/pexels-tara-winstead-8386434.jpg
 categories: How to
 tags:
   - learning
