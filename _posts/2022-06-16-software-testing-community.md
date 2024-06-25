@@ -1,13 +1,14 @@
 ---
+redirect_from:
+  - /software-testing-community/
+layout: post
 title: Software Testing Community
+date: 2022-06-15T23:00:00.000Z
+draft: false
+categories: Community
 tags:
   - community
   - testing
-date: '2022-06-16 00:00:00 +0100'
-categories:
-  - Community
-redirect_from:
-  - /software-testing-community/
 ---
 
 I have a lot to thank the Software Testing Community for, you are all a really amazing bunch of human beings!
@@ -30,15 +31,13 @@ Full disclosure, I am an AST member! I took advantage of their new "Pay what you
 
 Website: [https://associationforsoftwaretesting.org/](https://associationforsoftwaretesting.org/ "https://associationforsoftwaretesting.org/")
 
-Twitter: [https://twitter.com/AST_News](https://twitter.com/AST_News "https://twitter.com/AST_News")
+Twitter: [https://twitter.com/AST\_News](https://twitter.com/AST_News "https://twitter.com/AST_News")
 
 LinkedIn: [https://www.linkedin.com/company/association-for-software-testing/](https://www.linkedin.com/company/association-for-software-testing/ "https://www.linkedin.com/company/association-for-software-testing/")
 
 ## Ministry of Testing
 
-> Our Story
->
-> We’ve come a long way from our modest beginnings in 2007. The long timers in our community will know that Ministry of Testing started out at The Software Testing Club. A humble forum that, over the years, grew into an amazing and thriving online community of testers. The Software Testing Club forum is now switched off, but our online community continues to grow and discuss all things testing on our shiny new forum [The Club](https://club.ministryoftesting.com/).
+> Our StoryWe’ve come a long way from our modest beginnings in 2007. The long timers in our community will know that Ministry of Testing started out at The Software Testing Club. A humble forum that, over the years, grew into an amazing and thriving online community of testers. The Software Testing Club forum is now switched off, but our online community continues to grow and discuss all things testing on our shiny new forum [The Club](https://club.ministryoftesting.com/).
 
 Source: [https://www.ministryoftesting.com/about](https://www.ministryoftesting.com/about "https://www.ministryoftesting.com/about")
 
@@ -46,7 +45,7 @@ Website: [https://www.ministryoftesting.com/](https://www.ministryoftesting.com/
 
 Forum: [https://club.ministryoftesting.com/](https://club.ministryoftesting.com/t/welcome-to-the-club-by-ministry-of-testing/8?u=fullsnacktester "https://club.ministryoftesting.com/")
 
-Slack: [https://www.ministryoftesting.com/slack_invite](https://www.ministryoftesting.com/slack_invite "https://www.ministryoftesting.com/slack_invite")
+Slack: [https://www.ministryoftesting.com/slack\_invite](https://www.ministryoftesting.com/slack_invite "https://www.ministryoftesting.com/slack_invite")
 
 Twitter: [https://twitter.com/ministryoftest](https://twitter.com/ministryoftest "https://twitter.com/ministryoftest")
 
@@ -84,7 +83,7 @@ Website: [https://www.thetesttribe.com/](https://www.thetesttribe.com/ "https://
 
 Join the community: [https://www.thetesttribe.com/community/](https://www.thetesttribe.com/community/ "https://www.thetesttribe.com/community/")
 
-Twitter: [https://twitter.com/the_test_tribe](https://twitter.com/the_test_tribe "https://twitter.com/the_test_tribe")
+Twitter: [https://twitter.com/the\_test\_tribe](https://twitter.com/the_test_tribe "https://twitter.com/the_test_tribe")
 
 LinkedIn: [https://www.linkedin.com/company/thetesttribe/](https://www.linkedin.com/company/thetesttribe/ "https://www.linkedin.com/company/thetesttribe/")
 
@@ -92,7 +91,7 @@ LinkedIn: [https://www.linkedin.com/company/thetesttribe/](https://www.linkedin.
 
 The Test Chat is primarily a large group on Telegram, and I do mean large! At time of writing there are over 4500 members.
 
-Telegram: [https://t.me/joinchat/UKDuiCJi-pPpv_9a](https://t.me/joinchat/UKDuiCJi-pPpv_9a)
+Telegram: [https://t.me/joinchat/UKDuiCJi-pPpv\_9a](https://t.me/joinchat/UKDuiCJi-pPpv_9a)
 
 Twitter: [https://twitter.com/TheTestChat](https://twitter.com/TheTestChat "https://twitter.com/TheTestChat")
 
@@ -100,6 +99,4 @@ Twitter: [https://twitter.com/TheTestChat](https://twitter.com/TheTestChat "http
 
 Started by [Lee "The Pirate Tester" Marshall](https://twitter.com/ThePirateTester) as a support network around the start of the UK Lock-down in 2020. The Testers Hangout has grown organically and has been a great way for me to meet some really amazing human beings from the world of Software Testing!
 
-Google Hangout: [https://bit.ly/testerhangout](https://bit.ly/testerhangout "https://bit.ly/testerhangout")
-
-Discord Group: [https://discord.gg/Nu64rg3EC2](https://discord.gg/Nu64rg3EC2 "https://discord.gg/Nu64rg3EC2")
+Discord Group: [https://discord.gg/TTqv3t5e3K](https://discord.gg/TTqv3t5e3K)
