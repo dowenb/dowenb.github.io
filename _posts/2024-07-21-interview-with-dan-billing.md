@@ -8,7 +8,7 @@ categories: Tester of The Day
 
 ### Tester of The Day Interviews
 
-Between 17th of August 2020 and 9th of December 2022 I ran a daily celebration of the testing community. While I closed nominations for new winners, I still love celebrating the community. So I'm reposting the interviews from some of the honoured winners of the award.
+Between the 17th of August 2020 and the 9th of December 2022, I ran a daily celebration of the testing community. While I closed nominations for new winners, I still love celebrating the community. So I'm reposting the interviews from some of the honored award winners.
 
 This winners interview as originally posted: [https://interviews.testeroftheday.com/interviews/2021/02/13/dan-billing](https://interviews.testeroftheday.com/interviews/2021/02/13/dan-billing)
 
