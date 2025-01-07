@@ -3,6 +3,7 @@ layout: post
 title: 12 other ways you can use code to your advantage as a Quality Engineer
 date: 2025-01-07T00:00:00.000Z
 draft: true
+image: /uploads/pexels-divinetechygirl-1181263.jpg
 categories: Testing for Developers
 tags:
   - Tools
@@ -98,3 +99,7 @@ OK lets finish strong. Code can help you find bugs, but it's also the answer to 
 I've had great success now with a number of teams, not only finding but also fixing bugs. Many of them have been low hanging fruit, typos, missing or incorrect configuration. Other times I've contributed fixes for bugs I've advocated for, such as fixes for accessibility problems, that might not have had the priority they deserve otherwise.
 
 I highly recommend pairing with developers on your team to fix bugs together, a short cycle of debugging, identifying the root cause, implementing a fix and testing it together, can be a really efficient use of your time and theirs.
+
+Banner image:
+
+Photo by Christina Morillo: [https://www.pexels.com/photo/two-women-looking-at-the-code-at-laptop-1181263](https://www.pexels.com/photo/two-women-looking-at-the-code-at-laptop-1181263) 
