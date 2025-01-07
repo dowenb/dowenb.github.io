@@ -2,7 +2,7 @@
 layout: post
 title: 12 other ways you can use code to your advantage as a Quality Engineer
 date: 2025-01-07T00:00:00.000Z
-draft: true
+draft: false
 image: /uploads/pexels-divinetechygirl-1181263.jpg
 categories: Testing for Developers
 tags:
