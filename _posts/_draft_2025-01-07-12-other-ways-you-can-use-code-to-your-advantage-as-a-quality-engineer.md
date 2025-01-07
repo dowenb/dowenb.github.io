@@ -55,12 +55,46 @@ Without useful test data, your tests can be limited and miss boundaries or paths
 
 ## Control an environment
 
-## Fix a bug
+From managing test data, bringing services up and down, collecting logs, or launching tasks, code can help manage environments, be they locally on your machine or shared environments deployed to some infrastructure.
+
+You can also introduce test doubles, or mocks into environments to replace parts of your system that otherwise would be expensive, hard to control, or are simply not finished yet.
+
+You can use code to help simulate faults, load, or set systems into a given state. All helpful as part of system testing.
 
 ## Draw diagrams with code
 
-## Build system models in code
+OK so this one might be more Mark Up, then application code, you got me. But you can still let it sit next to your application code, and control and version it within your source control system.
+
+I've found the [C4 model,](https://c4model.com/) described in UML can be a useful way to describe and communicate a system.
+
+## Walk your system by modelling it with code
+
+[AltWalker](https://github.com/altwalker) is a tool you can use for something called Model Based Testing. Using Alt walker, you can describe a state model of your system and provide instructions, using code, to allow it to carry out actions to walk though different states and log results so you can analyse many more paths then you could easily do otherwise.
+
+My friend and colleague James Thomas has a great post; [Great Shot, Kid](https://qahiccupps.blogspot.com/2022/05/great-shot-kid.html); where he talks about using Alt Walker for model based testing.
+
+## Automate performance testing
+
+To compliment functional regression checks, you can use code to automate performance tests, by applying load in various patterns to your system. I've used a few tools for this, I vastly prefer any solution that is driven by code, instead of XML and a UI (I'm looking at you, jMeter).
+
+The three tools I know best for this are:
+
+* [https://gatling.io/](https://gatling.io/)
+* [https://k6.io/](https://k6.io/)
+* [https://locust.io/](https://locust.io/)
 
 ## Build a tool
 
-## Automate performance testing
+Sometimes, building your own is the only way, and it can be glorious. An extension to code as glue, generating test data or analysing logs, building small reusable tools can be very helpful to your testing efforts.
+
+You might simply take scripts you've already built up, and generalise them such as you can share them with others in your team, that is enough. Or, you might go further and build a CLI or even a UI, to make your tool easier to use for others, or future you.
+
+However you do it, and whatever you build, being your own tool smith can being huge value to you and your team, and your testing and quality efforts.
+
+## Fix a bug
+
+OK lets finish strong. Code can help you find bugs, but it's also the answer to fixing bugs! Take your code skills, and put them to use on product code, and fix that bug.
+
+I've had great success now with a number of teams, not only finding but also fixing bugs. Many of them have been low hanging fruit, typos, missing or incorrect configuration. Other times I've contributed fixes for bugs I've advocated for, such as fixes for accessibility problems, that might not have had the priority they deserve otherwise.
+
+I highly recommend pairing with developers on your team to fix bugs together, a short cycle of debugging, identifying the root cause, implementing a fix and testing it together, can be a really efficient use of your time and theirs.
