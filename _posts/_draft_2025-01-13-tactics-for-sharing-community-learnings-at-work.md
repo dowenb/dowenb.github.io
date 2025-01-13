@@ -2,7 +2,7 @@
 layout: post
 title: Tactics for sharing community learnings at work
 date: 2025-01-13T00:00:00.000Z
-draft: true
+draft: false
 image: /uploads/sharing_tactics.png
 categories: Community
 tags:
