@@ -53,3 +53,19 @@ I've encouraged, supported and engaged in various communities of practices in th
 Quality team vs development team significantly influences the way you work, from how work is allocated to line management, and in fact I've rarely been managed by people with testing experience. One of the results of this, is that I've had to be very self sufficient in planning my personal, technical and professional career growth.
 
 ## Technology company vs engineering department
+
+The third thing that has had a huge influence throughout my career, is the contrast between working for a technology company, or working for a company that happens to use technology as a strategic part of their wider business enough to have a technology or engineering department.
+
+This makes a big difference, from how stakeholders and management influence the work to be done, to how well the company understands the business domain they are operating in.
+
+It also impacts salaries, benefits, and freedoms. In my experience, technology companies as less worried about what you wear, or when you work, and more worried about how you deliver your work. They also understand how engineers progress in their careers better. They also understand the kit needed to do the work better, and have less restrictions, and more trust.
+
+Where as business that have their own thing going on, and their own culture outside of technology, tend to have some restrictions that can be very wired to us folks in tech. From things such as admin rights to install software on your own machine, to the cloths you were or when you can take vacation. The upside, is that technology is often enabling a business model that is in someway independently successful. You also tend to have experts who understand what the business wants from the technology.
+
+## Your context will be different
+
+Of course, this is my experience, from the limited number of companies I've worked for. And, I'm me, other people working at the same companies will have had their own experience, you are a big part of your own context!
+
+I won't get into detail here, but that industry or domain your business operates in also makes a huge difference, from regulation and compliance, to operating model and funding.
+
+If you take away one thing, please let it me that taking the time to thoughtfully think about your current context, what makes it similar or different, can help you better understand your day to day work.
