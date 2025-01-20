@@ -32,8 +32,24 @@ I understand this is not the only consultancy model that exists, I have friends 
 
 ### Product context
 
-Contrast that very commercial, consultancy context, with the one from working for product companies. 
+Contrast that very commercial, consultancy context, with the one from working for product companies. Most of the companies I've worked for, have produced some kind of product or service that is sold, either to other businesses or directly to consumers, or a mix of the two.
+
+In the companies I've worked for, the teams have been somewhat fixed, apart from the occasional re-org or individuals leaving or joining for their own reasons. Most of the products I've worked on have been in some way long lived, they haven't been project work that was handed over once shipped. Rather software was maintained and developed by the team who built it.
+
+Bug advocacy in this context is very different, it's about balancing the priorities of building new features or products, vs improving existing ones. Bugs in production are a big deal, considered incidents and the team jump on them with high priority where appropriate. This doesn't mean all bugs are fixed, and often pragmatic choices have to be made, recourse is limited, but it's at least all under the control of one organisation.
+
+In my experience in this context, larger systems are typically split into smaller parts, owned by different teams. This creates long lived dependencies, and necessitates long lived relationships across teams. Some companies I've worked for have had different teams cover the testing of these integrations between software built by different teams, or integrations with third parties. While others have left it down to the choice of individual teams, to work out the testing and development coordination.
+
+Overall, in my career so far, these have been some of the most impactful differences in contexts between the different companies I've worked for.
 
 ## In a quality team vs in the development team
 
-## TODO third list item
+Once at the start of my software quality my career, I worked for a company that had a team of testers, in fact in this case multiple teams of testers at different levels across a large organisation, with dedicated leadership. Even at that organisation, over time they transitioned away from this model, and I became embedded into a software development team, while the company took on an agile transformation.
+
+My context in all other places I've worked, is that I've had a home directly in a development team, and either been the sole person with a testing and quality specialism, or had one other person join me.
+
+I've encouraged, supported and engaged in various communities of practices in these contexts, some of them explicitly for quality or testing, and others for specific topics such as accessibility. In all cases, I've done some work across teams, and with other testers, but my day to day has mainly been testing on my own, or pairing with developers, designers, product managers or even doctors.
+
+Quality team vs development team significantly influences the way you work, from how work is allocated to line management, and in fact I've rarely been managed by people with testing experience. One of the results of this, is that I've had to be very self sufficient in planning my personal, technical and professional career growth.
+
+## Technology company vs engineering department
