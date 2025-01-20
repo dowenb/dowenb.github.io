@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Context for working with software quality
-date: '2025-01-20T00:00:00.000Z'
+date: 2025-01-20T00:00:00.000Z
 draft: false
+image: /uploads/quality_context.png
 categories: Quality
 ---
-
 
 I've recently been exploring what the differences are, between the role of a Quality Engineer, a role I'm currently inhabiting in my work at Ada Health, and other roles in Software Quality.
 
