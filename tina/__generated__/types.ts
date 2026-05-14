@@ -31,6 +31,7 @@ export type SystemInfo = {
   filename: Scalars['String']['output'];
   title?: Maybe<Scalars['String']['output']>;
   basename: Scalars['String']['output'];
+  hasReferences?: Maybe<Scalars['Boolean']['output']>;
   breadcrumbs: Array<Scalars['String']['output']>;
   path: Scalars['String']['output'];
   relativePath: Scalars['String']['output'];
@@ -319,7 +320,7 @@ export type PostQueryVariables = Exact<{
 }>;
 
 
-export type PostQuery = { __typename?: 'Query', post: { __typename: 'Post', id: string, layout: string, title: string, date?: string | null, draft: boolean, image?: string | null, categories?: string | null, tags?: Array<string | null> | null, body?: any | null, _sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string } } };
+export type PostQuery = { __typename?: 'Query', post: { __typename: 'Post', id: string, layout: string, title: string, date?: string | null, draft: boolean, image?: string | null, categories?: string | null, tags?: Array<string | null> | null, body?: any | null, _sys: { __typename?: 'SystemInfo', filename: string, basename: string, hasReferences?: boolean | null, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string } } };
 
 export type PostConnectionQueryVariables = Exact<{
   before?: InputMaybe<Scalars['String']['input']>;
@@ -331,7 +332,7 @@ export type PostConnectionQueryVariables = Exact<{
 }>;
 
 
-export type PostConnectionQuery = { __typename?: 'Query', postConnection: { __typename?: 'PostConnection', totalCount: number, pageInfo: { __typename?: 'PageInfo', hasPreviousPage: boolean, hasNextPage: boolean, startCursor: string, endCursor: string }, edges?: Array<{ __typename?: 'PostConnectionEdges', cursor: string, node?: { __typename: 'Post', id: string, layout: string, title: string, date?: string | null, draft: boolean, image?: string | null, categories?: string | null, tags?: Array<string | null> | null, body?: any | null, _sys: { __typename?: 'SystemInfo', filename: string, basename: string, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string } } | null } | null> | null } };
+export type PostConnectionQuery = { __typename?: 'Query', postConnection: { __typename?: 'PostConnection', totalCount: number, pageInfo: { __typename?: 'PageInfo', hasPreviousPage: boolean, hasNextPage: boolean, startCursor: string, endCursor: string }, edges?: Array<{ __typename?: 'PostConnectionEdges', cursor: string, node?: { __typename: 'Post', id: string, layout: string, title: string, date?: string | null, draft: boolean, image?: string | null, categories?: string | null, tags?: Array<string | null> | null, body?: any | null, _sys: { __typename?: 'SystemInfo', filename: string, basename: string, hasReferences?: boolean | null, breadcrumbs: Array<string>, path: string, relativePath: string, extension: string } } | null } | null> | null } };
 
 export const PostPartsFragmentDoc = gql`
     fragment PostParts on Post {
@@ -353,6 +354,7 @@ export const PostDocument = gql`
       _sys {
         filename
         basename
+        hasReferences
         breadcrumbs
         path
         relativePath
@@ -388,6 +390,7 @@ export const PostConnectionDocument = gql`
           _sys {
             filename
             basename
+            hasReferences
             breadcrumbs
             path
             relativePath
@@ -457,7 +460,7 @@ export const ExperimentalGetTinaClient = () =>
   getSdk(
     generateRequester(
       createClient({
-        url: "http://localhost:4001/graphql",
+        url: "https://content.tinajs.io/2.4/content/7d99bd01-0ec7-4d7c-8568-e6e2c0f14d37/github/main",
         queries,
       })
     )
